@@ -19,3 +19,4 @@ npm run dev
 ```
 ## Upon Startup
 The running app should look like this.
+<img width="1440" alt="Screenshot 2024-02-13 at 7 33 20 PM" src="https://github.com/SahilK-027/Trinity2024-Inertia-Template/assets/104154041/68312570-0288-47b3-8ce7-23066c27d763">
