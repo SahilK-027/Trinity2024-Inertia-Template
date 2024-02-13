@@ -18,7 +18,7 @@ export default function Experience() {
     <>
       <Lights />
 
-      {/* Load and display the car model */}
+      {/* Load and display the 3D model */}
       <primitive position={[0, -1, 0]} object={scene} scale={0.025} />
 
       <mesh castShadow receiveShadow position={[-1, -0.55, 1]} scale={1.5}>
